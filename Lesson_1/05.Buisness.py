@@ -1,6 +1,5 @@
 print('Расчет финансов фирмы')
 print('Введите выручку фирмы: ')
-
 debit = ''
 while True:
     debit = input()
