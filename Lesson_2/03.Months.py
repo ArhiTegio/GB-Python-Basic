@@ -6,9 +6,7 @@ months_list = ['Январь', 'Февраль', 'Март', 'Апрель', 'М
                'Декабрь']
 n = ''
 while True:
-    print('Введите номер месяца: ')
-    n = input()
-    n.isdigit()
+    n = input('Введите номер месяца: ')
     if n.isdigit() and n in check_months:
         print('Значение по листу: ' + months_list[int(n) - 1])
         print('Значение по словарю: ' + months_dict[n])
