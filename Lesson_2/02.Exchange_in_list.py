@@ -17,4 +17,3 @@ if len(l_any_elements) > 0:
             l_any_elements[len(l_any_elements) - e - 1], l_any_elements[e]
 
 print('list[' + ''.join([str(l_any_elements[num] + ', ') for num in range(len(l_any_elements))]) + ']')
-
