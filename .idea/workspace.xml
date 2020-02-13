@@ -20,8 +20,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.06.Sport">
-    <configuration name="02.Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06.Goods_-_Data_for_Analytics">
+    <configuration name="02.Exchange_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB-Python-Basic.git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -29,11 +29,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/02.Time.py" />
+      <option name="SCRIPT_NAME" value="F:\Программирование\Программирование\Проекты\GB-Python-Basic.git\Lesson_2\02.Exchange_in_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -42,7 +42,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.Months" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB-Python-Basic.git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/03.Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/03.Months.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.MaxNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04.Split_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB-Python-Basic.git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/04.MaxNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/04.Split_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05.Buisness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05.Rating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB-Python-Basic.git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/05.Buisness.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/05.Rating.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06.Sport" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06.Goods_-_Data_for_Analytics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GB-Python-Basic.git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/06.Sport.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/06.Goods_-_Data_for_Analytics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06.Sport" />
-        <item itemvalue="Python.05.Buisness" />
-        <item itemvalue="Python.04.MaxNumber" />
-        <item itemvalue="Python.03.Sum" />
-        <item itemvalue="Python.02.Time" />
+        <item itemvalue="Python.06.Goods_-_Data_for_Analytics" />
+        <item itemvalue="Python.04.Split_text" />
+        <item itemvalue="Python.05.Rating" />
+        <item itemvalue="Python.03.Months" />
+        <item itemvalue="Python.02.Exchange_in_list" />
       </list>
     </recent_temporary>
   </component>
@@ -150,33 +150,71 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580930915105">
+    <state x="507" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581193995418">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="507" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.832@0.0.1536.832" timestamp="1580930915105" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1580932993316">
+    <state x="507" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.832@0.0.1536.832" timestamp="1581193995418" />
+    <state width="757" height="213" key="GridCell.Tab.0.bottom" timestamp="1581252165720">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1580932993316" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1580932993316">
+    <state width="757" height="213" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1581252165720" />
+    <state width="757" height="213" key="GridCell.Tab.0.center" timestamp="1581252165720">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1580932993316" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1580932993315">
+    <state width="757" height="213" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1581252165720" />
+    <state width="757" height="213" key="GridCell.Tab.0.left" timestamp="1581252165720">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1580932993315" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1580932993316">
+    <state width="757" height="213" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1581252165720" />
+    <state width="757" height="213" key="GridCell.Tab.0.right" timestamp="1581252165720">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1580932993316" />
+    <state width="757" height="213" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1581252165720" />
+    <state width="757" height="263" key="GridCell.Tab.1.bottom" timestamp="1581251904923">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="757" height="263" key="GridCell.Tab.1.bottom/0.0.1536.832@0.0.1536.832" timestamp="1581251904923" />
+    <state width="757" height="263" key="GridCell.Tab.1.center" timestamp="1581251904923">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="757" height="263" key="GridCell.Tab.1.center/0.0.1536.832@0.0.1536.832" timestamp="1581251904923" />
+    <state width="757" height="263" key="GridCell.Tab.1.left" timestamp="1581251904923">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="757" height="263" key="GridCell.Tab.1.left/0.0.1536.832@0.0.1536.832" timestamp="1581251904923" />
+    <state width="757" height="263" key="GridCell.Tab.1.right" timestamp="1581251904923">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="757" height="263" key="GridCell.Tab.1.right/0.0.1536.832@0.0.1536.832" timestamp="1581251904923" />
     <state x="277" y="59" key="SettingsEditor" timestamp="1580926627184">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
     <state x="277" y="59" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1580926627184" />
-    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1580932700585">
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581245875662">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1580932700585" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1581245875662" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1581250461857">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1581250461857" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson_2/06.Goods_-_Data_for_Analytics.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
