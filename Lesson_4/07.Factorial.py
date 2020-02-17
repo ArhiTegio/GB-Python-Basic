@@ -10,6 +10,10 @@ def factorial():
         yield n
 
 
+step = 0
 for el in factorial():
     print(el)
     sleep(0.5)
+    step += 1
+    if step >= 15:
+        break
