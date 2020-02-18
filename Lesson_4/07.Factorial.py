@@ -12,8 +12,10 @@ def factorial():
 
 step = 0
 for el in factorial():
-    print(el)
+    print('Factorial {} - {}'.format(step + 1, el))
     sleep(0.5)
     step += 1
     if step >= 15:
         break
+
+f = open()
