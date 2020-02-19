@@ -1,10 +1,10 @@
 import os.path
 
 try:
-    if os.path.exists('test.txt') is False:
-        open('test.txt', 'tw', encoding='utf-8').close()
+    if os.path.exists('01.txt') is False:
+        open('01.txt', 'tw', encoding='utf-8').close()
 
-    with open('test.txt', 'a') as f:
+    with open('01.txt', 'a') as f:
         while True:
             t = input('Введите данные:')
             if t != '':
