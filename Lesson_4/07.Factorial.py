@@ -17,5 +17,3 @@ for el in factorial():
     step += 1
     if step >= 15:
         break
-
-f = open()
