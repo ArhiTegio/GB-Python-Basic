@@ -30,7 +30,7 @@ class Car:
         pass
 
     def show_speed(self):
-        print('Скорость соствляет: {}'.format(self.speed))
+        print('{} - Скорость соствляет: {}'.format(str(self)[str(self).find('.') + 1:str(self).find(' ')], self.speed))
         return self.speed
 
 
@@ -39,7 +39,8 @@ class Car:
 class TownCar(Car):
     def show_speed(self):
         if self.speed > 60:
-            print('Превышение скорости на {}'.format(self.speed - 60) )
+            print('{} - Превышение скорости на {}'.format(str(self)[str(self).find('.') + 1
+                                                                  :str(self).find(' ')], self.speed - 60))
         super().show_speed()
 
 
@@ -51,7 +52,8 @@ class SportCar(Car):
 class WorkCar(Car):
     def show_speed(self):
         if self.speed > 40:
-            print('Превышение скорости на {}'.format(self.speed - 40) )
+            print('{} - Превышение скорости на {}'.format(str(self)[str(self).find('.') + 1:
+                                                               str(self).find(' ')], self.speed - 40))
         super().show_speed()
 
 
@@ -60,14 +62,15 @@ class PoliceCar(Car):
         super().show_speed()
 
 
-car_town = TownCar(80, Color.Red, 'Town_is_rock_v0.5beta(Carmageddon)', False)
-car_town.show_speed()
+if __name__ == "__main__":
+    car_town = TownCar(80, Color.Red, 'Carmageddon_down_for_Angels_v0.5beta', False)
+    car_town.show_speed()
 
-car_sport = SportCar(80, Color.Red, 'Town_is_rock_v0.5beta(Carmageddon)', False)
-car_sport.show_speed()
+    car_sport = SportCar(80, Color.Red, 'Carmageddon_down_for_Angels_v0.5beta', False)
+    car_sport.show_speed()
 
-car_worker = WorkCar(80, Color.Red, 'Town_os_rock_v0.5beta(Carmageddon)', False)
-car_worker.show_speed()
+    car_worker = WorkCar(80, Color.Red, 'Carmageddon_down_for_Angels_v0.5beta', False)
+    car_worker.show_speed()
 
-car_police = PoliceCar(80, Color.Red, 'Town_is_rock_v0.5beta(Carmageddon)', False)
-car_police.show_speed()
+    car_police = PoliceCar(80, Color.Red, 'Carmageddon_down_for_Angels_v0.5beta', False)
+    car_police.show_speed()
